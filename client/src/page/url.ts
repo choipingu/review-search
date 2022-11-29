@@ -1,0 +1,8 @@
+export const curly = 'https://blog.kakaocdn.net/dn/bjjrHJ/btqBPXNC9tF/Sibyn4CJ4fWFTMaqvUYt01/img.jpg'
+export const coupang = 'https://blog.kakaocdn.net/dn/6ui8u/btqDtzRrCzg/ZM8q87L5frjEl0za6UnIk1/img.jpg'
+export const ssg = 'https://play-lh.googleusercontent.com/U4fk5FzvwR4bPYWeTPmYX_Lpm3ANMHTcMEQ9qbrWO-qucIPPA9olM1bIiAmdZLpEIPMg=w600-h300-pc0xffffff-pd'
+export const bmart = 'https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2022/02/21182623/%EB%B0%B0%EB%AF%BC3.png'
+export const wingit = 'https://cdn.imweb.me/upload/S202004169975996ca0a95/2951f0f5710f4.png'
+export const cookat = 'https://crcf.cookatmarket.com/icons/cookatmarket_ogimg_w_400.png'
+export const naverstore = 'https://cdn.imweb.me/thumbnail/20191118/0c61692389279.jpg'
+export const market = 'https://www.hanuribiz.com/news/photo/201606/8562_9080_101.jpg'
